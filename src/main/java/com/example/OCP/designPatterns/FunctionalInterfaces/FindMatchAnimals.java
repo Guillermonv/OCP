@@ -10,7 +10,7 @@ public class FindMatchAnimals {
             System.out.print(animal);
     }
     public static void main(String...args){
-        print(new Animal("fish",true,false),a->a.isCanFly());
+        print(new Animal("fish",true,false),a->a.isCanFly() && true);
         print(new Animal("bird",false,true),a->a.isCanSwinm());
         //print(new Animal("mamal",true,true),a->a.toString());
     }
