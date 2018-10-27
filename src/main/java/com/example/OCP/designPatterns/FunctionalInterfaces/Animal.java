@@ -5,7 +5,7 @@ package com.example.OCP.designPatterns.FunctionalInterfaces;
  */
 
 
-public class Animal {
+public class Animal{
 
     private String species;
     private boolean canSwinm;

@@ -21,6 +21,6 @@ public class StaticContext {
         st = new StaticContext();
 
        // System.out.println(t.value);
-
+        StaticContext.Test Test = new StaticContext().new Test();
     }
 }
