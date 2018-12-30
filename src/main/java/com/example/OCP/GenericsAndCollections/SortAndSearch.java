@@ -4,8 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.concurrent.Callable;
 
-public class SortAndSearch {
+public class SortAndSearch extends Thread {
 
     public static void main(String ... args ){
         List<Integer> listOfNumbers = new ArrayList<>();
@@ -19,5 +20,18 @@ public class SortAndSearch {
         System.out.println(Collections.binarySearch(listOfNumbers,10));
         // return -5 not on the list return -index that should be positioned and  -1 (-4 -1)
         System.out.println(listOfNumbers);
+        List<? super Object> genList = new ArrayList<>();
+        genList.add(new Integer(1));
+
+    }
+
+    @Override
+    public void run() {
+        int i = 0;
+        while (i < 10) {
+
+            System.out.println(i);
+            i++;
+        }
     }
 }
