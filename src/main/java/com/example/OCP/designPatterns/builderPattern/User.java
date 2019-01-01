@@ -49,7 +49,7 @@ public class User {
                       .age(11)
                       .phone("12")
                       .build();
-        
+
     }
 }
 

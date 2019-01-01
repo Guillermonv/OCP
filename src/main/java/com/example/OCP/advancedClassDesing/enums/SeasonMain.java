@@ -18,7 +18,7 @@ public static void main (String ... args){
     }
 
     Seasons season = Seasons.valueOf("SUMMER");
-   // Seasons seasons = Seasons.valueOf("summer"); its keySensitve it will throw Exception
+   // Seasons seasons = Seasons.valueOf("summer"); its keySensitve it will throw exception
 
     //Enums in switch Statement
     switch (season){
