@@ -22,5 +22,4 @@ public class Enclosing {
         Nested nested = new Nested();
         System.out.println(nested.price);
     }
-
 }
