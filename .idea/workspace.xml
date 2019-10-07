@@ -2,90 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a73576f2-3609-40b3-bd20-f6d3ce7eb098" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/Optional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OCP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/reflection/ReflectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/equlsAndHashCode/equals/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/GenericsAndCollections/SortAndSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/GenericsAndCollections/SortAndSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/OcpApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/OcpApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/Seasons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/Seasons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/enums/SeasonsMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/WidgetUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/WidgetUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/WidgetUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/WidgetUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleA/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleA/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleB/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleB/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/Optional/Optional.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/Optional/Optional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/exampleA/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/exampleA/A.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/exampleB/B$test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/exampleB/B$test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/exampleB/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/herencia/exampleB/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass$SaleTodayOnly.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass$SaleTodayOnly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/localInnerClass/Outer$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/localInnerClass/Outer$1Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/localInnerClass/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/localInnerClass/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/memberInnerClass/Outter$MemberInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/memberInnerClass/Outter$MemberInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/memberInnerClass/Outter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/memberInnerClass/Outter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/A$B$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/A$B$C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/StaticContext$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/StaticContext$Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/StaticContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/StaticContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/privateInterface$DontTell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/advancedClassDesing/nestedClasses/variablesInNestedClass/privateInterface$DontTell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/dateTime/PeriodAndDuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/dateTime/PeriodAndDuration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/BreakSoundBarrier$Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/BreakSoundBarrier$Airplane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/BreakSoundBarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/BreakSoundBarrier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/Fly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/FunctionalInterfaces/Animal$MakeDeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/FunctionalInterfaces/Animal$MakeDeal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/FunctionalInterfaces/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/FunctionalInterfaces/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/FunctionalInterfaces/FindMatchAnimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/FunctionalInterfaces/FindMatchAnimals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/builderPattern/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/builderPattern/User$UserBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/builderPattern/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/OCP/designPatterns/builderPattern/User.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,37 +20,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/OcpApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/Optional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/enums/SeasonMain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleB/B.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
@@ -133,55 +35,100 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/enums/Seasons.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/StringBuilder/StringBuilderExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/enums/SeasonsArgs.java">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/memberInnerClass/Outter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/annonimusInnerClass/MyAnnonimusInnerClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/equlsAndHashCode/equals/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/localInnerClass/Outer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/GenericsAndCollections/SortAndSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/GenericsAndCollections/ComparableSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+              <folding>
+                <element signature="e#1114#1115#0" expanded="true" />
+                <element signature="e#1154#1155#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/enums/SeasonsMethods.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="6" selection-start-line="22" selection-end-line="23" />
+            <state relative-caret-position="2907">
+              <caret line="210" column="45" selection-start-line="210" selection-start-column="45" selection-end-line="210" selection-end-column="45" />
+              <folding>
+                <element signature="e#5644#5645#0" expanded="true" />
+                <element signature="e#5675#5676#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18904">
+              <caret line="1169" column="5" selection-start-line="1169" selection-start-column="5" selection-end-line="1169" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleA/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -204,14 +151,27 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/memberInnerClass/Outter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/Optional.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/threads/Callable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/threads/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/reflection/Reflection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/reflection/ReflectionExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/WidgetUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleA/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleB/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/StringBuilder/StringBuilderExample.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/equlsAndHashCode/Equals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/equlsAndHashCode/equals/Equals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/equlsAndHashCode/equals/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/OCP/GenericsAndCollections/ComparableSample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="483" />
+    <option name="y" value="5" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,19 +221,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="OCP" type="462c0819:PsiDirectoryNode" />
-              <item name="advancedClassDesing" type="462c0819:PsiDirectoryNode" />
+              <item name="GenericsAndCollections" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556040344361" />
-    <property name="last_opened_file_path" value="C:/liberty_development/workspaces/services/ltl-java-exceptionmanagement-spec/pom.xml" />
+    <property name="last_opened_file_path" value="C:/liberty_development/workspaces/services/ltl-api-location-contract" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,13 +246,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Optional">
-    <configuration name="Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.OCP.Optional.Optional" />
+  <component name="RunManager" selected="Application.ComparableSample">
+    <configuration name="ComparableSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.OCP.GenericsAndCollections.ComparableSample" />
       <module name="OCP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.OCP.Optional.*" />
+          <option name="PATTERN" value="com.example.OCP.GenericsAndCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +260,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.OCP.advancedClassDesing.enums.SeasonMain" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.OCP.advancedClassDesing.equlsAndHashCode.equals.Employee" />
       <module name="OCP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.OCP.advancedClassDesing.enums.*" />
+          <option name="PATTERN" value="com.example.OCP.advancedClassDesing.equlsAndHashCode.equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.OCP.threads.MyCallable" />
+      <module name="OCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.OCP.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.OCP.Optional.reflection.ReflectionExample" />
+      <module name="OCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.OCP.Optional.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.OCP.advancedClassDesing.StringBuilder.StringBuilderExample" />
+      <module name="OCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.OCP.advancedClassDesing.StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,8 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Optional" />
-        <item itemvalue="Application.SeasonMain" />
+        <item itemvalue="Application.ComparableSample" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.ReflectionExample" />
+        <item itemvalue="Application.MyCallable" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +339,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.95234495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -345,8 +348,8 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31751227" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30114567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,6 +367,35 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.95234495" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30114567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -373,6 +405,12 @@
           <line>2</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/OCP/GenericsAndCollections/ComparableSample.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -385,10 +423,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/enums/SeasonMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/OcpApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -396,6 +441,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/threads/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3417">
+          <caret line="235" column="18" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -434,24 +503,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/nestedClasses/staticNestedClasses/Enclosing.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/reflection/ReflectionExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/OcpApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/WidgetUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/Optional/Optional.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/enums/SeasonMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleB/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/StringBuilder/StringBuilderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/equlsAndHashCode/equals/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/GenericsAndCollections/SortAndSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="210" column="45" selection-start-line="210" selection-start-column="45" selection-end-line="210" selection-end-column="45" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18904">
+          <caret line="1169" column="5" selection-start-line="1169" selection-start-column="5" selection-end-line="1169" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/advancedClassDesing/herencia/exampleA/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/OCP/GenericsAndCollections/ComparableSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#1114#1115#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

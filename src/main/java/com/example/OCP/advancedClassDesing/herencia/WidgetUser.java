@@ -14,7 +14,7 @@ class Widget {
 }
 
 class GoodWidget extends Widget{
-    String data = "big data";
+     String data = "big data";
 
     public void doWidgetStuff() {
     }
