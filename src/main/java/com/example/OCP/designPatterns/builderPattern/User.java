@@ -1,13 +1,6 @@
 package com.example.OCP.designPatterns.builderPattern;
 
 public class User {
-
-    private  String firstName = "";    //required
-    private  String lastName = "";    //required
-    private  int age = 1;    //optional
-    private  String phone = "";    //optional
-    private  String address ="";
-
     public User(UserBuilder userBuilder) {
     }
 
@@ -49,6 +42,8 @@ public class User {
                       .age(11)
                       .phone("12")
                       .build();
+        User.UserBuilder userBuilder1 = new User.UserBuilder("","");
+        userBuilder1.address("street fake").age(12).build();
 
     }
 }
