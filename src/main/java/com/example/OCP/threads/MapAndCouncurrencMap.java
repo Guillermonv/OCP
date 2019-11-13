@@ -19,6 +19,13 @@ public class MapAndCouncurrencMap {
           for (String key : concurrentMap.keySet()){
               concurrentMap.remove(key);
         }
+        System.out.println(map.keySet());
+        MapAndCouncurrencMap  a = new MapAndCouncurrencMap();
+        System.out.println(a.factorial(4));
+    }
+    public int factorial(int n){
+        if(n<1) return 1;
+        else return n * factorial(n-1);
     }
 
 }
