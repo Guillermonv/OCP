@@ -26,7 +26,7 @@ public class ComparableSample {
     }
 
     public static void main(String[] args) {
-        ComparableSample.Person a = new ComparableSample.Person(1,20000,"Jhon" ,"Ang") ;
+        ComparableSample.Person a = new ComparableSample.Person(1,20000,"B" ,"Ang") ;
         ComparableSample.Person b = new ComparableSample.Person(18,2000,"Albert", "zz");
         List<Person> persons = new ArrayList<>();
         persons.add(a);
@@ -35,13 +35,16 @@ public class ComparableSample {
         Comparator<Person> c = new Comparator<Person>() {
             @Override
             public int compare(Person o1, Person o2) {
-                return o1.surnmae.compareTo(o1.surnmae);
+                return o1.name.compareTo(o1.name);
             }
         };
         // Use comaprte
         Collections.sort(persons);
-        //Use Comparator
-        Collections.sort(persons , c);
+    //Use Comparator
+      //  Collections.sort(persons , c);
         persons.forEach(x->System.out.println(x.name));
+        String[] sa = { "charlie", "bob", "andy", "dave" };
+        Collections.sort(Arrays.asList(sa), null);
+        System.out.println(sa[0]);
     }
 }

@@ -12,6 +12,8 @@ public class Optional {
     }
 
     public static void main(String[] args) {
+        java.util.Optional<String> empty = java.util.Optional.ofNullable(null);
+        System.out.println("asd" + empty.orElse("bla"));
         java.util.Optional<String> grade1 = getGrade(50);
         java.util.Optional<String> grade2 = getGrade(55);
         System.out.println(grade1.orElse("UNKNOWN"));
